@@ -1,0 +1,1 @@
+{"a": ["abeja", "auto", "ave", "avi\u00f3n"], "e": ["elefante", "erizo", "escalera", "espejo", "estrella"], "i": ["iglesia", "igloo", "iguana", "im\u00e1n", "indio"], "l": ["l\u00e1mpara", "l\u00e1piz", "lluvia", "lombriz"], "o": ["ojo", "olla", "oreja", "oso", "oveja"]}

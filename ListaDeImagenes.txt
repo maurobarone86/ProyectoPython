@@ -1,0 +1,1 @@
+{"I": ["ojo.png", "oveja.png", "iguana.png", "urna.png", "oso.png", "uvas.png", "ave.png", "estrella.png", "espejo.png", "avi\u00f3n.png", "iglesia.png", "elefante.png", "abeja.png", "auto.png", "olla.png", "erizo.png", "im\u00e1n.png", "escalera.png", "oreja.png", "unicornio.png", "igloo.png", "indio.png", "universo.png"]}

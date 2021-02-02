@@ -1,0 +1,1 @@
+{"L": ["E.png", "I.png", "A.png", "U.png", "O.png"]}

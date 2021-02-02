@@ -1,0 +1,1 @@
+{"S": ["Auto.ogg", "Espejo.ogg", "Oso.ogg", "Abeja.ogg", "\u00c1rbol.ogg", "Erizo.ogg", "Oveja.ogg", "Escalera.ogg", "Avi\u00f3n.ogg", "Oreja.ogg", "Uvas.ogg", "Ojo.ogg", "U\u00f1a.ogg", "Elefante.ogg", "Iguana.ogg", "Universo.ogg", "Olla.ogg", "Iglesia.ogg", "Ave.ogg", "Urna.ogg", "Igloo.ogg", "Estrella.ogg", "Im\u00e1n.ogg", "Unicornio.ogg", "Indio.ogg"]}
